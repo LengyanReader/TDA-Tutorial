@@ -1,0 +1,4 @@
+Two libraries related to Gudhi:
+
+ATOL: Automatic Topologically-Oriented Learning. See this tutorial.
+Perslay: A Simple and Versatile Neural Network Layer for Persistence Diagrams. See this tutorial.
