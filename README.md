@@ -7,3 +7,5 @@ For now the materials are mainly based on that in https://github.com/GUDHI/TDA-t
 
 
 Any to say, contact me：nanyudong@gmail.com
+
+![alt text](https://miro.medium.com/max/640/1*KtPxFuv_0FJz6dG21mUWFw.png)
