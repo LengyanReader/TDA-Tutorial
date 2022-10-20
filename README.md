@@ -1,9 +1,9 @@
 # TDA Tutorial
  
-Here the tutorials on topological data analysis, with theories, applications,and ready-to-hand codes 
+Here are the tutorials on topological data analysis, with theories, applications,and **ready-to-hand** codes. More are on going, welcome any disscutions on the topic  
  
-For now the materials are mainly based on that in https://github.com/GUDHI/TDA-tutorial and the connected.  The softwares/tools are now limited to **GUDHI**, which is quite user-friendly python package(actually underlying c++). Several more tools will be instroduced later. 
+For now the materials are mainly based on that in https://github.com/GUDHI/TDA-tutorial and the connected, with some revisions or modifications for some.  The softwares/tools are now limited to **GUDHI**, which is quite user-friendly python package(actually underlying c++). Several more tools will be instroduced later. 
 
 
 
-Any questions, contact me：nanyudong@gmail.com
+Any to say, contact me：nanyudong@gmail.com
